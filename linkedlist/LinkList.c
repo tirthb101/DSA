@@ -1,6 +1,12 @@
+/**
+ * @file LinkList.c
+ * @author Tirth Bhatiya
+ * @brief This file has basic functions to interact with a linked list 
+ * 
+ * 
+ */
 #include <Stdio.h>
 #include <stdlib.h>
-#include <stdbool.h>
 
 struct Node{
 	int number;
@@ -77,5 +83,3 @@ int Transverse(int tofind,struct Node** origin){
 	}
 	return 1;
 }
-
-
