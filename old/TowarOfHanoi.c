@@ -4,7 +4,7 @@ void toh(int no_disk, char from, char to, char aux);
 
 void main()
 {
-    toh(2, 'A', 'C', 'B');
+    toh(3, 'A', 'C', 'B');
 }
 
 void toh(int no_disk, char from, char to, char aux)

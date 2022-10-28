@@ -45,7 +45,7 @@ dict = {
 
 
 def main():
-    string = CHar("a+b*c/f+c-a$")
+    string = CHar(input())
 
     stack = StackA()
 
