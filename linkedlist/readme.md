@@ -1,0 +1,2 @@
+# To compile use  gcc linkedlist.c LinkedListFunctions.h LinkedListFunctions.c -o filename.exe
+## you can use functions mentioned in LinkedListFunctions.h as you like the function names are pretty intuitive
